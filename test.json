@@ -1,7 +1,8 @@
 {
     "username" : "test",
     "textures" : {
-        "default" : "skin/test.png", //default or slim
+        "_comment" : "use slim or default type according to your skin type",
+        "default" : "skin/test.png",
         "slim" : "skin/test.png",
         "cape" : "cape/test.png",
         "elytra" : "elytra/test.png"
