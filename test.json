@@ -1,0 +1,9 @@
+{
+    "username" : "test",
+    "textures" : {
+        "default" : "test/skin.png",
+        "slim" : "test/slim.png",
+        "cape" : "test/cape.png",
+        "elytra" : "test/elytra.png"
+    }
+}
