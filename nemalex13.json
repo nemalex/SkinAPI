@@ -1,6 +1,6 @@
 {
     "username" : "nemalex13",
     "textures" : {
-        "slim" : "skin/nemalex13.png"
+        "default" : "skin/nemalex13.png"
     }
 }
